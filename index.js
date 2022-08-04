@@ -1,6 +1,6 @@
 // Write your code here!
 const main = document.querySelector("main");
-// const secondChild = main.querySelector("li:nth-child(2)");
+// const secondChild = main.querySelector
 // main.removeChild(secondChild);
 main.remove();
 
